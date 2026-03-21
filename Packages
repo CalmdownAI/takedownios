@@ -8,7 +8,7 @@ Size: 51000
 
 Package: com.sugaragency.calmaura.deb
 Name: Calm-Builder Bundle
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Description: Crane Manager-Builder (pro dans son domaine)
 Filename: debs/com.sugaragency.tweakin_latest.deb
